@@ -1,1 +1,1 @@
-# slider-con-botones
+# slider manual con botones
